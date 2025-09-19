@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Miranda Mittleman Personal Website
 
 # Your name to show in the footer
 author: Miranda Mittleman
@@ -21,10 +21,9 @@ author: Miranda Mittleman
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Publications:
+  Google Scholar: "https://scholar.google.com/citations?user=DG0dJ1wAAAAJ&hl=en"
+  LinkedIn: "https://www.linkedin.com/in/miranda-mittleman-b049b11b4/"
 
 ################
 # --- Logo --- #
