@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Miranda Mittleman is a PhD pre-candidate at the University of Michigan in the Robotics Department. She works under Dr. Leia Stirling in the [Stirling Research Group](https://stirling.engin.umich.edu/). Her research is centered around wearable technology and human-robot interaction, with a focus in creating rehabilitation technologies to support older adults. She has previously gotten her M.S. in Robotics at UM, and completed her B.S. in Engineering Science at Trinity University in 2023. View her [resume](https://docs.google.com/document/d/1-1SVHaG9zWr2S2mLIGa6bcVatBzT4amY/edit?usp=sharing&ouid=101694667635904703467&rtpof=true&sd=true) here/
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
